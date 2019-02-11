@@ -1,0 +1,10 @@
+{
+  "name": "craftool",
+  "version": "0.1.0",
+  "description": "Craftool - приложение по учёту своих изделий, ценообразования, затрат в рукоделии",
+  "main": "index.js",
+  "repository": "git@github.com:Bargamut/craftool.git",
+  "author": "Paul Petrov <paul@bargamut.ru>",
+  "license": "MIT",
+  "private": true
+}
